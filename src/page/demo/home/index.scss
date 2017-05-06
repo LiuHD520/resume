@@ -1,0 +1,85 @@
+@import "$yo-config/core/reset";
+@import "$yo-config/layout/yo-root";
+@import "$yo-config/layout/yo-flex";
+@import "$yo-config/fragment/yo-tab";
+.m-content {
+    .title {
+        text-align: center;
+        font-size: .2rem;
+        color: #666666;
+        padding: .1rem;
+    } 
+    .notice {
+        text-align: center;
+        font-size: .16rem;
+        color: #555555;
+        padding: .1rem;
+    }
+    .m-content-active {
+        opacity: 0.7;
+    }
+}
+
+.yo-header{
+    background: url("/self-liu/img/nav.png");
+    background-size:100% 100%;
+}
+#bcid{
+    height:100%;
+    width:100%;
+}
+.header{
+    height: 80px;
+    background: url("./self-liu/img/nav.png");
+}
+.yo-list > .item::after{
+    border: none;
+}
+.yo-list > .item, .yo-list .front{
+      padding: 5px 0.1rem;
+}
+
+.yo-list > .label > .flex, .yo-list > .item > .flex, .yo-list .front > .flex{
+    margin-left: 0.5rem;
+}
+.content h3{
+    height: 0.4rem;
+    line-height: 0.4rem;
+    padding-left: 0.1rem;
+}
+hr{
+    border: 1px solid #ccc;
+    height: 0;
+}
+.other .yo-btn{
+    height:0.3rem;
+    line-height: 0.3rem;
+    padding: 0 0.2em;
+    border-radius: 5px;
+    background-color: bisque;
+    margin:10px 10px;
+}
+ #btn-main{
+     margin-left:40%;
+     margin-top:120%;
+     background:url("/self-liu/img/back.png") no-repeat;
+     background-size:100% 100%;
+}
+.headerImg{
+   margin-top:10px;
+   margin-left:20px;
+}
+.headerImg{float:left;}
+
+.haeder-info{
+    float:left;
+    margin-top:30px;
+    margin-left:20px;
+    line-height:30px;
+}
+.haeder-info h3{font-weight:200;}
+#bcid {
+    height:10px;
+    width:10px;
+}
+

@@ -1,0 +1,14 @@
+{
+  "baseInfo": [
+    { "birthday": "1994-06-05", "idcard": "511521199406053251", "address": "杭州" },
+    {"school":"新余学院","major":"计算机应用","date":"2012-2015","education":"专科"},
+    {"jobtype":"全职","jobadd":"杭州","salary":"HTML5开发工程师","jobint":"12000"},
+    {"pro1":"当当网","pro2":"饿了吗","pro3":"每日优鲜","pro4":"酒仙网"}
+  ],
+  "proList":[
+    {"img":"https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/6f7800de14c38f3553563588fc25c701_121_121.jpg","title":"当当网","content":"【当当】全球知名的综合性网上购物商城，百万种商品，品质保证，涵盖图书、童书、服装、百货、电子书等品类，全场2.9折起！提供货到付款和多种线上支付方式，上门退货、当面退款。","technique":"jQuery,zepto,ajax,swipe.js,IScoll.js,SPA","result":"图片的轮播，单页面的切换，滚动条"},
+    {"img":"https://img01.sogoucdn.com/app/a/100520115/1a40a881141d42bf25ce507a4fa1c415","title":"饿了么","content":"饿了么（ele.me）”是中国知名的在线外卖订餐平台，已覆盖中国数百个城市，数千万用户，聚集了数十万家餐饮商户。饿了么为中国广泛地区的用户提供丰富多样、简单快捷的在线订餐服务；为不同类型的餐饮商户提供基于互联网技术的一体化运营解决方案。","technique":"jQuery,zepto,ajax,swipe.js,IScoll.js,SPA","result":"图片的轮播，单页面的切换，滚动条"},
+    {"img":"https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=4142777187,2985800893&fm=58&s=B8247C32C1B105925E12BBFF0300A025","title":"每日优鲜","content":"每日优鲜是一个围绕着老百姓餐桌的生鲜 O2O 电商平台。覆盖了水果蔬菜、海鲜肉禽、牛奶零食等全品类，每日优鲜在主要城市建立起 “城市分选中心 + 社区配送中心” 的极速达冷链物流体系，为用户提供全球生鲜产品 “2 小时送货上门” 的极速达冷链配送服务。","technique":"jQuery,zepto,ajax,swipe.js,IScoll.js,SPA","result":"图片的轮播，单页面的切换，滚动条"},
+    {"img":"https://img03.sogoucdn.com/app/a/100200009/small_0163367d-1f88-474e-9330-b93fcd263d67.","title":"酒仙网","content":"银泰网是国内实体百货公司控股经营的网上商务平台，由香港上市公司银泰百货重资打造，整合旗下40余家实体商城，数千个品牌，提供了众多高品质的商品，是国内消费者的首选时尚B2C网站。","technique":"jQuery,zepto,ajax,swipe.js,IScoll.js,SPA","result":"图片的轮播，单页面的切换，滚动条"}
+  ]
+}

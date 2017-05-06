@@ -1,0 +1,14 @@
+@import "$yo-config/core/reset";
+@import "$yo-config/layout/yo-root";
+@import "$yo-config/layout/yo-flex";
+@import "$yo-config/fragment/yo-list";
+
+.m-list {
+    background-color: #eeeeee;
+}
+.yo-list > .item, .yo-list .front {
+    padding: 0;
+}
+.font{background:#e6e4e4;width:100%;display:block;height:30px;line-height:30px;padding:0 10px;box-sizing:border-box;}
+.time{border-bottom:1px solid #e6e4e4;height:30px;line-height:30px;padding:0 10px;box-sizing:border-box;}
+.name{border-bottom:1px solid #e6e4e4;line-height:24px;padding:0 10px;box-sizing:border-box;}
